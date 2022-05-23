@@ -1,5 +1,5 @@
-public class Program01 {
+public class Program {
 public static void main(String[] args) {
-    SYstem.out.println("Program01");
+    SYstem.out.println("Hey,Program");
 }
 }
